@@ -1,6 +1,6 @@
 {
-  "name": "kalkulator-e",
-  "short_name": "kalkulator",
+  "name": "Hitung biaya listrik",
+  "short_name": "electrical-calculator",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
